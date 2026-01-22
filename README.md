@@ -8,7 +8,7 @@ It focuses on network segmentation, endpoint visibility, SIEM alerting, and dete
 
 The lab is built to demonstrate real-world defensive security skills, including firewall policy design, log ingestion, alert tuning, and MITRE ATT&CK mapping.
 
-What I Built
+## What I Built
 
 • Virtualized security environment using Proxmox hosting pfSense, Wazuh (Manager, Indexer, Dashboard), Windows endpoints, and Ubuntu servers
 
