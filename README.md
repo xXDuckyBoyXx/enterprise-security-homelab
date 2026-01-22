@@ -1,7 +1,7 @@
 # enterprise-security-homelab
 A segmented SOC-style homelab using Proxmox, pfSense, Wazuh SIEM, and Windows/Linux endpoints with detections mapped to MITRE ATT&amp;CK.
 
-Overview
+## Overview
 
 This project is an enterprise-style security homelab designed to simulate a small SOC environment.
 It focuses on network segmentation, endpoint visibility, SIEM alerting, and detection engineering using industry-relevant tools.
