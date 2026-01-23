@@ -17,3 +17,5 @@ What I Built
 • Centralized security monitoring with endpoint telemetry, log collection, alerting, and dashboards via Wazuh
 
 • Detection engineering and validation, including simulated attacks mapped to the MITRE ATT&CK framework
+
+KJBkajhsdrfgkbajsd;ikgb
