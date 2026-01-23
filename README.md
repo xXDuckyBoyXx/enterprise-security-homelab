@@ -17,3 +17,6 @@ The lab is built to demonstrate real-world defensive security skills, including 
 • Centralized security monitoring with endpoint telemetry, log collection, alerting, and dashboards via Wazuh
 
 • Detection engineering and validation, including simulated attacks mapped to the MITRE ATT&CK framework
+
+
+This is the edit for charles
