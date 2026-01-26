@@ -12,7 +12,7 @@ The lab is built to demonstrate real-world defensive security skills, including 
 
 * Virtualized security environment using Proxmox hosting pfSense, Wazuh (Manager, Indexer, Dashboard), Windows endpoints, and Ubuntu servers
 
-* Segmented network architecture with firewall enforcement (WAN/LAN/DMZ/VLANs) to control north–south and east–west traffic
+* Implemented segmented virtual networking using Proxmox Linux bridges to separate WAN, LAN, and DMZ traffic routed through a virtualized pfSense firewall.
 
 * Centralized security monitoring with endpoint telemetry, log collection, alerting, and dashboards via Wazuh
 
@@ -20,5 +20,5 @@ The lab is built to demonstrate real-world defensive security skills, including 
 
 * Deployed pfSense CE in Proxmox using correct FreeBSD OS configuration, disk provisioning, and boot order, resolving UEFI/PXE boot failures.
 
-* Implemented segmented virtual networking using Proxmox Linux bridges to separate WAN, LAN, and DMZ traffic routed through a virtualized pfSense firewall.
+
 
