@@ -45,8 +45,6 @@ docs/diagrams/
 * **LAN (Trusted):** User and consumer devices
 * **Management (Logical):** Security tooling and administrative access
 
-> Logical segmentation is used to mirror enterprise designs without requiring enterprise hardware.
-
 ### Connectivity
 
 * Wired and wireless devices are intentionally separated at the logical level
