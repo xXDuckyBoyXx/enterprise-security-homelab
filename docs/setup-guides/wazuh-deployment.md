@@ -99,8 +99,6 @@ https://<WAZUH_SERVER_IP>
 
 Log in using the credentials provided at the end of the installation script.
 
-> 🔒 Credentials should be stored securely and not committed to GitHub.
-
 ---
 
 ## Step 5 – Agent Communication & Firewall Considerations
