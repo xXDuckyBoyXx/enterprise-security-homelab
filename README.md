@@ -161,4 +161,5 @@ This project is for **educational and portfolio demonstration purposes only**. A
 ## Author
 
 **Michael Garriott**
+
 Enterprise Security Homelab Project
