@@ -179,12 +179,3 @@ Future hardening steps include:
 * Deploy Wazuh SIEM behind pfSense
 * Implement DMZ segmentation
 * Add logging and alerting
-
----
-
-## Change Log
-
-| Date    | Change                                 |
-| ------- | -------------------------------------- |
-| Initial | Initial pfSense installation procedure |
-
