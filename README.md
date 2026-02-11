@@ -3,7 +3,7 @@ A segmented SOC-style homelab using Proxmox, pfSense, Wazuh SIEM, and Windows/Li
 
 ## Overview
 
-This project is an **enterprise-style security homelab** designed to demonstrate real-world defensive security, networking, and SIEM operations. The lab simulates a small organizational environment using consumer hardware combined with enterprise security tooling, emphasizing **network segmentation, visibility, and detection engineering**.
+This project is an enterprise-style security homelab designed to demonstrate real-world defensive security, networking, and SIEM operations. The lab simulates a small organizational environment using consumer hardware combined with enterprise security tooling, emphasizing network segmentation, visibility, and detection engineering.
 
 The homelab is intentionally documented and structured to be **portfolio-ready**, reproducible, and safe to publish publicly.
 
