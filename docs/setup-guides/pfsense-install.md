@@ -12,10 +12,10 @@ The goal of this setup is to simulate a **real-world firewall deployment** while
 
 This guide covers:
 
-* |pfSense installation as a virtual machine on Proxmox |
-* |Initial interface assignment                         |
-* |Basic network configuration                          |
-* |Web dashboard access                                 |
+* pfSense installation as a virtual machine on Proxmox 
+* Initial interface assignment                         
+* Basic network configuration
+* Web dashboard access
 
 > All IP addresses, hostnames, and identifiers referenced here are **examples only**. 
 
@@ -133,8 +133,8 @@ From the pfSense console menu:
 2. Accept the security warning
 3. Log in with default credentials:
 
-   * Username: `admin`
-   * Password: `pfsense`
+   * | Username | `admin`  |
+   * | Password | `pfsense`|
 
 ---
 
