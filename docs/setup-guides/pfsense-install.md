@@ -133,8 +133,8 @@ From the pfSense console menu:
 2. Accept the security warning
 3. Log in with default credentials:
 
-   * | Username | `admin`  |
-   * | Password | `pfsense`|
+   * Username: `admin`
+   * Password: `pfsense`
 
 ---
 
