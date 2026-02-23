@@ -12,12 +12,12 @@ The goal of this setup is to simulate a **real-world firewall deployment** while
 
 This guide covers:
 
-* pfSense installation as a virtual machine on Proxmox
-* Initial interface assignment
-* Basic network configuration
-* Web dashboard access
+* |pfSense installation as a virtual machine on Proxmox |
+* |Initial interface assignment                         |
+* |Basic network configuration                          |
+* |Web dashboard access                                 |
 
-> | All IP addresses, hostnames, and identifiers referenced here are **examples only**. |
+> All IP addresses, hostnames, and identifiers referenced here are **examples only**. 
 
 ---
 
