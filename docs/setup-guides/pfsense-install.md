@@ -17,7 +17,7 @@ This guide covers:
 * Basic network configuration
 * Web dashboard access
 
-> 🔒 All IP addresses, hostnames, and identifiers referenced here are **examples only**.
+> All IP addresses, hostnames, and identifiers referenced here are **examples only**.
 
 ---
 
