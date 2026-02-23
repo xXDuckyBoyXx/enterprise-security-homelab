@@ -77,7 +77,7 @@ docs/diagrams/
 * Default-deny principles applied
 * Explicit rules controlling:
 
-  * LAN → WAN
+  * LAN-to-WAN
   * Management access
   * Monitoring traffic
 
