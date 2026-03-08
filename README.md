@@ -30,7 +30,7 @@ The environment is built around a layered network design:
 
 All routing and access control decisions are enforced at the firewall layer.
 
-📁 Full architecture diagrams are located in:
+Full architecture diagrams are located in:
 ``
 docs/diagrams/
 ``
@@ -81,7 +81,7 @@ docs/diagrams/
   * Management access
   * Monitoring traffic
 
-📁 Firewall documentation:
+Firewall documentation:
 ``
 docs/setup-guides/
 ``
@@ -116,7 +116,7 @@ Each detection includes:
 * Triggered alerts
 * MITRE ATT&CK technique mapping
 
-📁 Detection documentation:
+Detection documentation:
 ``detections/``
 
 ---
