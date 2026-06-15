@@ -24,3 +24,24 @@ I used several troubleshooting steps:
 | ------------- | ------------- |
 | 192.168.xxx.xxx | 192.168.xxx.xxx |
 
+- Confirmed Proxmox remained reachable.
+- Reviewed pfSense firewall aliases and discovered that access rules only permitted the original workstation IP address.
+
+## Root Cause
+
+Firewall aliases were configured using a specific DHCP-assigned IP address. When the workstation received a new lease after being moved to the switch, it no longer matched the allowed source address.
+
+## Resolution
+
+- Updated pfSense firewall aliases to include the workstation's new IP address.
+- Applied the updated firewall rules.
+- Verified connectivity using ping tests.
+- Restored access to both dashboards.
+- Confirmed Wazuh agent connectivity resumed without requiring agent reinstallation.
+
+## Lessons Learned
+
+- Avoid using dynamic DHCP addresses in security firewall rules.
+- Implement static DHCP reservations for administrative workstations.
+- Validate routing and firewall policies after physical network changes.
+- Troubleshooting and documentation are as important as initial deployment.
