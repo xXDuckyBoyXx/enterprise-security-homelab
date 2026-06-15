@@ -16,5 +16,6 @@ Windows workstation could not access:
 
 I used several troubleshooting steps:
 
-Verified the workstation's network configuration using:
-- ipconfig
+- Verified the workstation's network configuration using:
+</>ipconfig
+- Discovered the Windows workstation's DHCP-assigned IP address had changed:
