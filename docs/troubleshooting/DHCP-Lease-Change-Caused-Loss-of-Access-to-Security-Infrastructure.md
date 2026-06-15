@@ -7,13 +7,14 @@ After moving my Windows 10 workstation from the wireless router to a Netgear GS3
 ## Symptoms
 
 Windows workstation could not access:
-pfSense Dashboard
-Wazuh Dashboard
-Initial ping tests failed.
-Wazuh agent communication appeared disrupted.
+- pfSense Dashboard
+- Wazuh Dashboard
+- Initial ping tests failed.
+- Wazuh agent communication appeared disrupted.
 
 ## Investigation
 
 I used several troubleshooting steps:
 
 Verified the workstation's network configuration using:
+- ipconfig
